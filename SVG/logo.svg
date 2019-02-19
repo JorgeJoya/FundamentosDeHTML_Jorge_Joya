@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_9">
+   <rect fill="#666666" height="450.000002" id="svg_5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="454.000018" x="88.6" y="15.549991"/>
+   <path d="m89.531624,90.454263l0,0c41.605079,0 75.332677,-33.429845 75.332677,-74.667662l301.321673,0l0,0c0,41.237801 33.727598,74.667662 75.332647,74.667662l0,298.661707l0,0c-41.605064,0 -75.332647,33.429816 -75.332647,74.667632l-301.321673,0c0,-41.237831 -33.727598,-74.667632 -75.332677,-74.667632l0,-298.661707z" fill="#333333" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+   <ellipse cx="314.712791" cy="240.350025" fill="#b2b2b2" id="svg_2" rx="225.995594" ry="223.49998" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+   <text fill="#e5e5e5" font-family="serif" font-size="24" id="svg_1" stroke="#191919" text-anchor="middle" transform="matrix(20.0923, 0, 0, 15.0785, -3861.05, -2673.09)" x="207.706798" xml:space="preserve" y="201.761285">JJ</text>
+  </g>
+ </g>
+</svg>
