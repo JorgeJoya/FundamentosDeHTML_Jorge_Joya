@@ -12,9 +12,9 @@
 	</svg>
 <h1>CURRICULUM VITAE</h1>
 <h2>DATOS PERSONALES</h2>
-<h3>Nombre: <em>Jorge Luis Joya Parada</em></h3>
-<h3>Fecha de nacimiento: <em>11/01/1995</em></h3>
-<h3>Lugar de nacimiento: <em>San Miguel, El Salvador</em></h3>
+<h3><em>Nombre:</em> Jorge Luis Joya Parada</h3>
+<h3><em>Fecha de nacimiento:</em> 11/01/1995</h3>
+<h3><em>Lugar de nacimiento:</em> San Miguel, El Salvador</h3>
 </header>
 <nav>
 <p>
@@ -57,10 +57,32 @@
 					
 				</tr>
 			</tbody>
-			
-
-
 		</table>
+		<h2>Agregar Estudios</h2>
+			<form autocomplete="on" name="Agregar Estudios">
+			
+					<p>
+				<label for="Año"><strong>Año:</strong></label><br/>
+				<select>
+					<option>2015</option>
+					<option>2016</option>
+					<option>2017</option>
+					<option>2018</option>
+					<option>2019</option>
+				</select>
+					</p>
+					<p>
+				<label for="institucion" ><strong>Institución:</strong></label><br/>
+				<input  type="text" name="institucion" autofocus placeholder="" required>
+					</p>
+				<p><strong>Lugar:</strong><br/>
+				<textarea name="lugar" rows="3" cols="50"></textarea>
+					</p>
+					<p>
+				<input type="submit" value="Enviar">
+					</p>
+	
+			</form>
 
 
 </body>
